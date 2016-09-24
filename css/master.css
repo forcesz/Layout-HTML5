@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+/*CONJUNTO DE PROPRIEDADES PARA A TAG HEADER DO HTML 5*/
+
+header{
+background-color: red;
+max-width: 1600px;
+max-height: 900px;
+min-width: 800px;
+min-height: 80px;
+/*Quando se trabalha com sites responsivos, devemos especificar as larguras minimas e maximas possiveis*/
+}
+
+nav{
+
+}
+main{
+
+}
+section{
+
+}
+article{
+
+}
+aside{
+
+}
+footer{
+
+}
+#container{
+  /*imagens em base64, imagens vetorias (SVG),*/
+  background: #f3f3f3  url(../imagens/fundo.png)
+  /*imagem http://subtlepatterns.com/*/
+}
